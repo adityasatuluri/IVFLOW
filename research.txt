@@ -3,8 +3,9 @@ https://innoveit.github.io/react-native-ble-manager/
 https://innoveit.github.io/react-native-ble-manager/expo/
 https://developer.android.com/develop/connectivity/bluetooth/bt-permissions
 
-StackOverflow:
+StackOverflow & github issues:
 https://stackoverflow.com/questions/60002601/react-native-location-permission-doesnt-work-in-android-10-but-does-work-in-and
 https://github.com/zoontek/react-native-permissions/issues/365
+https://github.com/dotintent/react-native-ble-plx/issues/1190
 https://reactnative.dev/docs/running-on-device
 
