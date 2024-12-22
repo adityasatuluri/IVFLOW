@@ -1,0 +1,26 @@
+https://innoveit.github.io/react-native-ble-manager/
+
+npx expo init MyAppName --template blank
+
+
+Clean the Build:
+
+bash
+Copy code
+cd android
+gradlew clean
+Sync Gradle: Run the Gradle sync process in Android Studio or from the command line.
+
+Rebuild the Project:
+
+bash
+Copy code
+gradlew assembleDebug
+Validate Configuration:
+
+Ensure your android/build.gradle and android/app/build.gradle files are compatible with the React Native version you're using.
+Test Permissions:
+
+Test on both Android 12+ devices and older versions to verify permission handling.
+
+yarn android
