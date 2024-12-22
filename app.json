@@ -34,7 +34,7 @@
       [
         "react-native-ble-manager",
         {
-          "neverForLocation": true,
+          "neverForLocation": false,
           "companionDeviceEnabled": false,
           "isBleRequired": true,
           "bluetoothAlwaysPermission": "Allow $(PRODUCT_NAME) to connect to Bluetooth devices"

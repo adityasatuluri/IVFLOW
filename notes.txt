@@ -2,6 +2,7 @@ https://innoveit.github.io/react-native-ble-manager/
 
 npx expo init MyAppName --template blank
 
+npm i @expo/config-plugins
 
 Clean the Build:
 
